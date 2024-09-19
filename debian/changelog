@@ -1,3 +1,9 @@
+icecc (1.4-1deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:49:37 +0800
+
 icecc (1.4-1) unstable; urgency=medium
 
   [ Debian Janitor ]
